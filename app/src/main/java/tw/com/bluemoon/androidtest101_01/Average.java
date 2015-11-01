@@ -45,7 +45,7 @@ public class Average {
 
         int counts = 0;
 
-        int total = 0;
+        float total = 0;
 
         for(Person person : persons) {
 
